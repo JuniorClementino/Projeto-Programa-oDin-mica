@@ -1,1 +1,1 @@
-# Projeto-Programa-oDin-mica
+Projeto da Disciplina de Projeto de Algoritmos- USP
