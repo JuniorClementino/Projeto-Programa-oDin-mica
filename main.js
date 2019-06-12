@@ -65,7 +65,7 @@ testFileReader.on('line', function(line){
 
 
 function solve(){
-    console.log("\n Solving DTW .....");
+    console.log("\n    Solving DTW    . . . . .");
 
     // --- Creates object to store results
     let result = {
